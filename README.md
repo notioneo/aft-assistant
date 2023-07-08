@@ -1,2 +1,1 @@
-# aft-assistant
-Advanced Finance Tracker - Assistant
+# Advanced Finance Tracker - Assistant
